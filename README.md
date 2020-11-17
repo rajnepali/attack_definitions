@@ -5,7 +5,7 @@ Repo for collection of different types of attacks and their definitions
   
   Social Engineering/Phishing: https://www.imperva.com/learn/application-security/phishing-attack-scam/ 
   
-  DNS Poisoning: https://www.cloudflare.com/learning/dns/dns-cache-poisoning/
+  DNS Cache Poisoning: https://www.cloudflare.com/learning/dns/dns-cache-poisoning/
   
   ARP Spoofing: https://www.imperva.com/learn/application-security/arp-spoofing/
   
@@ -13,12 +13,17 @@ Repo for collection of different types of attacks and their definitions
 
 ## Web Attacks:
 
+  Brute Force: https://owasp.org/www-community/attacks/Brute_force_attack
+  
   Cross Site Scripting: https://portswigger.net/web-security/cross-site-scripting
   
   SQL Injection: https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver15
   
   Command Injection: https://portswigger.net/web-security/os-command-injection
+  
+  File Inclusion: https://www.imperva.com/learn/application-security/rfi-remote-file-inclusion/
 
+  Path Traversal: https://owasp.org/www-community/attacks/Path_Traversal#:~:text=A%20path%20traversal%20attack%20%28also%20known%20as%20directory,that%20are%20stored%20outside%20the%20web%20root%20folder.
 
 ## Active Directory Attacks:
 
@@ -48,10 +53,8 @@ DLL Hijacking: https://trustfoundry.net/what-is-dll-hijacking/#:~:text=DLL%20Hij
 
 Living Off the Land: https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md
 
+DLL Sideloading: https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-dll-sideloading.pdf
+
+Credential Dumping: https://www.wired.com/story/hacker-lexicon-credential-dumping/
 
 
-
-
-
-
- 
